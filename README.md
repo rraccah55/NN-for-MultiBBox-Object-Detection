@@ -25,3 +25,8 @@ There are three different notebooks in this repository:
 ## Inference on Video
 
 https://github.com/rraccah55/NN-for-MultiBBox-Object-Detection/assets/119108178/311e1486-e503-479f-a601-446af8c47258
+
+
+
+https://github.com/rraccah55/NN-for-MultiBBox-Object-Detection/assets/119108178/9e253e08-edf8-4b76-86ce-b0f73a3f2071
+
